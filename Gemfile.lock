@@ -1,0 +1,23 @@
+PATH
+  remote: .
+  specs:
+    quacker (0.1.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.1)
+    rake-compiler (1.1.1)
+      rake
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler
+  quacker!
+  rake
+  rake-compiler
+
+BUNDLED WITH
+   2.1.4
