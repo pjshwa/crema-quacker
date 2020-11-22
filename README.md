@@ -7,7 +7,7 @@ An important gem that quacks when the weather in Seoul is rainy.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'quacker', git: 'https://github.com/pjshwa/quacker'
+gem 'quacker'
 ```
 
 And then execute:

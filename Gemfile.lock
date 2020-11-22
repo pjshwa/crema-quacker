@@ -1,11 +1,12 @@
 PATH
   remote: .
   specs:
-    quacker (0.1.2)
+    quacker (0.1.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    minitest (5.14.2)
     rake (13.0.1)
     rake-compiler (1.1.1)
       rake
@@ -15,6 +16,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  minitest
   quacker!
   rake
   rake-compiler
